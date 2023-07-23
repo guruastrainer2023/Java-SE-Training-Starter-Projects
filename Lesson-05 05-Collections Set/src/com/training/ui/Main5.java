@@ -1,0 +1,9 @@
+package com.training.ui;
+
+public class Main5 {
+
+	public static void main(String[] args) {
+		// Hash Set Example 3
+	}
+
+}
